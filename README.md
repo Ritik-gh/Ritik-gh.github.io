@@ -1,3 +1,3 @@
 # Ritik-gh.github.io
-My portfolio  
-https://ritik-gh.github.io/Linkedin-Redesigned/
+My portfolio
+[VIsit my portfolio](https://ritik-gh.github.io/Linkedin-Redesigned/)
