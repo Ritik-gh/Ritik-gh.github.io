@@ -1,3 +1,3 @@
 # Ritik-gh.github.io
 My portfolio
-[VIsit my portfolio](https://ritik-gh.github.io/)
+[Visit my portfolio](https://ritik-gh.github.io/)
